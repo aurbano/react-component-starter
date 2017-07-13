@@ -18,7 +18,6 @@
     "lint:fix": "npm run lint:eslint -- --fix . ",
     "lint:staged": "lint-staged && npm run flow",
     "pretest": "npm run test:clean && npm run lint && npm run flow",
-    "postinstall": "cd example/app && npm install",
     "test:clean": "rimraf ./coverage",
     "test": "cross-env NODE_ENV=test jest --coverage",
     "test:watch": "cross-env NODE_ENV=test jest --watchAll",
