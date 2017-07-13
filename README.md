@@ -6,7 +6,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/aurbano/react-component-starter/badge.svg?branch=master)](https://coveralls.io/github/aurbano/react-component-starter?branch=master)
 [![npm](https://img.shields.io/npm/dm/react-cs.svg)](https://www.npmjs.com/package/react-cs)
 [![npm](https://img.shields.io/npm/l/react-cs.svg)](https://www.npmjs.com/package/react-cs)
-[![Codacy grade](https://img.shields.io/codacy/grade/e2589a609bdc4c56bd49c232a65dab4e.svg)](https://www.codacy.com/app/aurbano/react-component-starter)
+[![Codacy grade](https://img.shields.io/codacy/grade/7e026955dc4549aa85b38cdb70c92c04.svg)](https://www.codacy.com/app/aurbano/react-component-starter)
 
 This is a template for releasing React components. It contains configuration for testing, building, and setting up an example page.
 
