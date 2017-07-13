@@ -14,6 +14,12 @@ This is a template for releasing React components. It contains configuration for
 
 Download this repository into yours, and replace all mentions of `react-component-starter` and `react-cs` with the name of your npm package.
 
+Install `linklocal` - this allows you to work on the example using the local version of your package as a symlink:
+
+```console
+$ npm i -g linklocal
+```
+
 Place your component source files in `src/`, and make sure that the main component file is called `index.js`.
 
 ## Testing
